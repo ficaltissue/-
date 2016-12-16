@@ -9,7 +9,7 @@ QQ/微信号：1132968920
 
 孙月
 本科/黑龙江科技大学 信息管理与信息系统
-Github：http://github.com/fical
+Github：https://github.com/ficaltissue
 
 期望职位：Web前端
 
